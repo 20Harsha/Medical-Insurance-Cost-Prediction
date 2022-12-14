@@ -6,7 +6,7 @@
 
 To show results gui has been created using tkinter
 
-GUI Output:
+Output:
 
 ![image](https://user-images.githubusercontent.com/87359806/207050952-1ca56201-f6d7-4044-9970-8c23b26a8ab7.png)
 
